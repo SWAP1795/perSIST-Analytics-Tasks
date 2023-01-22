@@ -1,0 +1,7 @@
+Import *relevant library files*
+Loc = {define the location of file}
+A = lib_file.open_workbook(provide its location)
+B = A.sheet_by_index(0)
+B.cell_value(initial cell address)
+Print: No. of rows
+
